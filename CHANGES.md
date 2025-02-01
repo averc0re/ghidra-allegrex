@@ -1,3 +1,6 @@
+#### Version 20.2
+- Added build for Ghidra 11.2.1
+
 #### Version 20.1
 - Added build for Ghidra 11.2
 - JVM 21 is now required
